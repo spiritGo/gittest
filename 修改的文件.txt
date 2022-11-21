@@ -1,3 +1,4 @@
 init  
 git commit -a
 git commit -a -m [message]
+git branch -u
